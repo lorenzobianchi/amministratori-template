@@ -102,7 +102,7 @@ footer {
 }
 
 .icon {
-  color: red;
+  color: #77bfa3;
   font-size: 18px;
 }
 
@@ -131,4 +131,34 @@ footer {
   font-weight: 300;
   color: #3c763d;
   padding-bottom: 10px;
+}
+ .foot {
+   text-align: center;
+   border: 1px solid #e3e3e3;
+   border-radius: 4px;
+   padding: 20px;
+   color: grey;
+ }
+
+.caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.home-img-title {
+  color: #77bfa3;
+  font-size: 80px;
+}
+
+.navbar-brand {
+  color: #77bfa3!important;
+  font-weight: 600;
 }
